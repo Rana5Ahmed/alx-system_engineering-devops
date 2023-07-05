@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 rmdir /tmp/my_first_directory
-
-=======
-rmdir/tmp/my_first_director
->>>>>>> 5b87f3aeab23a6d037ec992ea188098d08b1310b
