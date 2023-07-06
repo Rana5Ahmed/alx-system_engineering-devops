@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 su betty
-
-=======
-sudo chown betty
->>>>>>> e1d321d291464734402bfd536f223cb9e6de41db
