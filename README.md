@@ -1,1 +1,1 @@
-0x02-shell_redirections new directory
+0x03-shell_variables_expansions new directory
